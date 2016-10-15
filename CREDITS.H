@@ -1,0 +1,5 @@
+void credits()
+	{
+	clrscr();
+	getch();
+	}
